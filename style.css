@@ -1,0 +1,14 @@
+.container {
+    background-color: rgb(237, 213, 215);
+}
+
+.number {
+    color: rgb(237, 74, 102);
+    font-size: 2em;
+}
+
+.button {
+    background-color: rgb(237, 74, 102);
+    color: whitesmoke;
+   
+}
